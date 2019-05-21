@@ -1,0 +1,15 @@
+{
+  "name": "homechat",
+  "version": "1.0.0",
+  "description": "A chat application for my home to display LED lights",
+  "main": "index.js",
+  "dependencies": {
+    "quickblox": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeyabalaji",
+  "license": "ISC"
+}
